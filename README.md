@@ -1,4 +1,4 @@
-# MyIGM (My Instrumentataion Geotechnical Monitoring)
+# MyGIM (My Geotechnical Instrumentation Monitoring)
 
 # Nombre = Felipe Camacho Restrepo
 
